@@ -1,5 +1,6 @@
 # SimpleInterest
 Calculating simple interest with Solid Principles and Design Pattern using C# 
+
 Visa gets 10% MC gets 5% interest Discover gets 1% interest Each Card Type can have
 multiple cards and there can be multiple Wallets for a Person.
 
